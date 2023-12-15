@@ -1,6 +1,9 @@
-<h1 align="center">
- <img src="[image-url-here](https://github.com/Rafsun001/automlv3/blob/main/images/3156627.jpg)" />
-</h1>
+<p align="center">
+
+<img width="200" height="200" src="https://github.com/Rafsun001/automlv3/blob/main/images/3156627.jpg" alt="my banner">
+
+</p>
+
 <h1 align="center">Hi 👋, I'm Rafsun Ahmad</h1>
 <h3 align="center">A Textile Engineer Passionate about Data Science</h3>
 <img align='right' alt='Coding' width='400' src='https://github.com/Rafsun001/automlv3/blob/main/images/3684518.jpg'>
