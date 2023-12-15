@@ -2,7 +2,7 @@
 
 <h1 align="center">Hi 👋, I'm Rafsun Ahmad</h1>
 <h3 align="center">A Textile Engineer Passionate about Data Science</h3>
-<img align='right' alt='Coding' width='400' src='https://www.freepik.com/free-vector/charts-concept-illustration_9019186.htm#query=data%20illustration&position=5&from_view=keyword&track=ais&uuid=d918236b-f08a-47c3-b4fd-f83b9e880642'>
+<img align='right' alt='Coding' width='400' src='https://github.com/Rafsun001/automlv3/blob/main/images/3684518.jpg'>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rafsun001&label=Profile%20views&color=0e75b6&style=flat" alt="rafsun001" /> </p>
 
 - 🔭 I’m currently working on [AutoML](https://github.com/Rafsun001/automlv3)
