@@ -1,6 +1,6 @@
 <p align="center">
 
-<img width="550" height="350" src="https://github.com/Rafsun001/automlv3/blob/main/images/3156627.jpg" alt="my banner">
+<img width="850" height="350" src="https://github.com/Rafsun001/automlv3/blob/main/images/3156627.jpg" alt="my banner">
 
 </p>
 
