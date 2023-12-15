@@ -1,4 +1,4 @@
-![Banner Image]([https://your-image-url.com](https://github.com/Rafsun001/automlv3/blob/main/images/3156627.jpg))
+![Banner Image]([https://your-image-url.com](https://github.com/Rafsun001/automlv3/blob/main/images/3156627.jpg?raw=true))
 <h1 align="center">Hi 👋, I'm Rafsun Ahmad</h1>
 <h3 align="center">A Textile Engineer Passionate about Data Science</h3>
 <img align='right' alt='Coding' width='400' src='https://github.com/Rafsun001/automlv3/blob/main/images/3684518.jpg'>
